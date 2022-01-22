@@ -1,0 +1,145 @@
+#fourthcontainer {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+.linkpg1div {
+  background: black;
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  overflow: hidden;
+  clear: both;
+}
+.linkrow1 {
+  text-align:center;
+  color: white;
+  padding-top: 10px;
+}
+#linkpara1 {
+  font-size: 50px;
+}
+#linkpara2 {
+  font-size: 28px;  
+}
+#linkdiv2 {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-bottom: 5%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+#linkdiv2 span img {
+  border-radius: 10px;
+  display: inline-block;
+  display: table;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 5%;
+  min-height: 70%;
+  width: 60%;
+}
+#linkdiv3 {
+  text-align:center;
+  color: white;
+  padding-right: 1%;
+  padding-left: 1%;
+}
+#spanbtn1 {
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 50px;
+  padding: 7px 20px 7px 20px;
+  color: white;
+  background: blueviolet;
+  display: inline-block;
+  display: table;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50px;
+}
+#linkdiv4 {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-bottom: 5%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+#linkdiv4 span img {
+  border-radius: 10px;
+  display: inline-block;
+  display: table;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 5%;
+  min-height: 70%;
+  width: 60%;
+}
+#linkdiv5 {
+  text-align:center;
+  color: white;
+  padding-right: 1%;
+  padding-left: 1%;
+}
+#spanbtn2 {
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 50px;
+  padding: 7px 20px 7px 20px;
+  color: white;
+  background: blueviolet;
+  display: inline-block;
+  display: table;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50px;
+}
+#linkdiv6 {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-bottom: 5%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+#linkdiv6 span img {
+  border-radius: 10px;
+  display: inline-block;
+  display: table;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 5%;
+  min-height: 70%;
+  width: 60%;
+}
+#linkdiv7 {
+  text-align:center;
+  color: white;
+  padding-right: 1%;
+  padding-left: 1%;
+}
+#spanbtn3 {
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 50px;
+  padding: 7px 20px 7px 20px;
+  color: white;
+  background: blueviolet;
+  display: inline-block;
+  display: table;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50px;
+}

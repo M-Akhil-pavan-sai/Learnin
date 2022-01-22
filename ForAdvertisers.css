@@ -1,0 +1,232 @@
+#firstcontainer
+{	width:100%;
+	background: black;
+	min-height: 100px;
+	display: flex;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+#f1
+{
+	flex: 12;
+	background: black;
+}
+#h1
+{
+	color: white;
+	font-size: 64px;
+    font-weight: 600;
+    line-height: 70px;
+    padding: 18% 64px 0px 64px;
+    margin-bottom: 0px;
+}
+#data1
+{
+	color: white;
+	margin-bottom: 16px;
+	font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 16px;
+    text-align: left;
+    padding: 20px 64px 0px 64px;
+}
+#b1
+{
+	background: #8A2BE2;
+	color: white;
+	border-radius: 50px;
+	margin: 20px 64px 84px 64px;
+	padding: 10px;
+	padding-right: 15px;
+	padding-left: 15px;
+	font-size: 20px;
+	border: 1px solid white;
+	font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+}
+#b1:hover
+{
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+#firstcontainer video
+{
+	display: block;
+    object-fit: cover;
+    border-radius: 8px;
+    height: auto;
+    margin: auto;
+    max-width: 100%;
+    overflow: hidden;
+    width: auto;
+    max-height: 650px;
+    box-shadow: 0px 4px 40px rgb(0 0 0 / 16%);
+    border-radius: 16px;width: 23.7vw;
+  	height: 87vh;
+  	margin-right: 5%;
+	margin-top: 30px;
+  	margin-bottom: 60px;
+  	border: 3px solid blueviolet;
+ }
+
+
+#secondcontainer
+{
+	margin-top: 50px;
+	margin-bottom: 70px;
+}
+
+#secondcontainer #sp1
+{
+	text-align: center;
+	font-size: 50px;
+	color: black;
+	font-weight: bold;
+}
+
+#secondcontainer #sp2
+{
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    color: black;
+}
+
+
+.custom-shape-divider-bottom-1623214133 {
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1623214133 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 67px;
+}
+
+.custom-shape-divider-bottom-1623214133 .shape-fill {
+    fill: white;
+}
+
+#thircondiv2 img
+{
+    width:100%;
+}
+
+
+#fourthcontainer
+{
+	margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#fourthcontainer .b1
+{
+    width: 100%;
+    padding: 0.75em 2em;
+    border: none;
+    border-radius: 999em;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.12em;
+    font-weight: 700;
+    line-height: 1.5em;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    white-space: nowrap;
+    z-index: 50;
+    background: blue;
+    color: white;
+}
+
+#fourthcontainer .b2
+{
+    width: auto;
+    padding: 0.75em 2em;
+    border: none;
+    border-radius: 999em;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.12em;
+    font-weight: 700;
+    line-height: 1.5em;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    white-space: nowrap;
+    z-index: 50;
+    background: black;
+    color: white;
+}
+
+
+#fifthcontainer .b1
+{
+	margin-left: 30%;
+	margin-right: 40px;
+	padding: 12px 32px;
+	border: none;
+    border-radius: 999em;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    white-space: nowrap;
+    z-index: 50;background: yellow;
+}
+
+
+#fifthcontainer .b2
+{
+	padding: 12px 32px;
+	border: none;
+    border-radius: 999em;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    white-space: nowrap;
+    z-index: 50;
+    background: black;
+    color: white;
+}
+
+#fifthcontainer .p1
+{
+	font-size:50px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+#fifthcontainer .p2
+{
+	font-size:22px;
+	text-align:center;
+	color: black;
+}
+

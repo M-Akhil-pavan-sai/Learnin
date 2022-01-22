@@ -1,0 +1,241 @@
+body {
+	padding-right: 0px;
+	margin-right: 0px;
+}
+#h1 span {
+	color: #8A2BE2;
+	font-weight: bold;"
+}
+#b1 {
+	border-radius: 1px solid red;
+}
+#seccondiv2 {
+	margin-bottom:3%;
+}
+#seccondiv3 {
+	text-align:center;
+}
+#secconbtn1 {
+	text-align: center;
+	background: blueviolet;
+	color: white;
+	padding: 20px 35px;
+	border: 0px;
+	margin-bottom: 2%;
+	border: 1px solid black;
+	border-radius: 50px;
+}
+#secconbtn2 {
+	text-align: center;
+	background: black;
+	color: white;
+	padding: 20px 35px;
+	border: 0px;
+	margin-bottom: 2%;
+	border: 1px solid blueviolet;
+	border-radius: 50px;
+}
+#thirdcontainer {
+	display: flex;
+}
+#thircondiv1 {
+	flex: 1;
+	padding-left: 8%;
+	padding-right: 2%;
+	margin-bottom: 50px;
+}
+#thircondiv1 h5 {
+	font-size: 24px;
+}
+#thircondiv1 p {
+	font-size: 16px;
+}
+#sechead {
+	font-size: 24px;
+}
+#firstpara {
+	font-size: 16px;
+}
+#list {
+	font-size: 16px;
+}
+#thirdhead {
+	font-size: 24px;
+}
+#secpara {
+	font-size: 16px;
+}
+#thirdcondiv {
+	flex:1;
+}
+.b1 {
+	background: blue;
+	color: white;
+}
+.b2 {
+	background: blue; 
+	color: white;
+}
+#linkpage1div {
+	background:black;
+	margin-top: 50px; 
+	padding-bottom: 50px;
+	margin-bottom: 50px;
+}
+.btndown1 {
+	background: blue;
+}
+.btndown2 {
+	background: blue;
+}
+.btndown3 {
+	background: blue;
+}
+#fifthcontainer {
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+#fifthcontdiv {
+	display:flex;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#fifthconimg1 {
+	margin-left: 35%;
+	margin-right: 20%;
+}
+#fifcondiv2 {
+	padding-right:0px;
+	margin-right: 0px;
+}
+#fifcondiv3 {
+	padding-right:0px;
+	margin-right: 0px;
+}
+#fifconspan1 {
+	display: inline-block;
+	display:table;
+	margin:0 auto;
+	height: 50px;
+	margin-bottom: 1%;
+}
+#fifconspan1 img {
+	width:100%;
+	height: 300px;
+	border-radius: 100%;
+	margin-bottom: 1%;
+}
+#fifcondiv4 {
+	text-align:center;
+}
+#fifconbtn1 {
+	text-align: center;
+	background: yellow;
+	color: black;
+	padding: 20px 35px;
+	border: 0px;
+	margin-bottom: 2%;
+	border: 1px solid black;
+	border-radius: 50px;
+}
+#fifcondiv5 {
+	padding-right:0px;
+	margin-right: 0px;
+}
+#fifconspan2 {
+	display: inline-block;
+	display:table;
+	margin-bottom:1% ;
+	margin:0 auto;
+	height: 50px;
+}
+#fifconspan2 img {
+	width:100%;
+	height: 300px;
+	border-radius: 100%;
+	margin-bottom: 1%;
+}
+#fifcondiv6 {
+	text-align:center;
+}
+#fifconbtn2 {
+	text-align: center;
+	background: blueviolet;
+	color: white;
+	padding: 20px 35px;
+	border: 0px;
+	margin-bottom: 2%;
+	border: 1px solid black;
+	border-radius: 50px;
+}
+#thirdpara {
+	flex:1;
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	color: black;
+	font-size: 20px;
+}
+#thirdpara span {
+	font-size: 30px;
+	font-weight: bold;
+}
+#fifthconimg2 {
+	margin-left: 35%;
+	margin-right: 20%;
+}
+#fourthpara {
+	flex:1;
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	color: black;
+	font-size: 20px;
+}
+#fourthpara span {
+	font-size: 30px;
+	font-weight: bold;
+}
+#linkpage2div {
+	background:black;
+	margin-top: 50px;
+	padding-bottom: 50px;
+}
+#sixthcontainerdiv {
+	background: black;
+}
+#sixconpara {
+	font-size:50px;
+	text-align: center;
+	color: white;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-top: 5%;
+	padding-bottom: 3%;
+	font-weight: bold;
+}
+#sixconbutton {
+	padding: 12px 32px;
+	margin-bottom: 3%;
+	background: blue;
+	color:white;
+	margin-left: 45%;
+	border: 0;
+	border-radius: 999em;
+	font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+}
+#sixcondiv1 {
+	text-align:center;
+}
+#sixconbtn1 {
+	text-align: center;
+	background: blueviolet;
+	color: white;
+	padding: 20px 35px;
+	border: 0px;
+	margin-bottom: 2%;
+	border: 1px solid white;
+	border-radius: 50px;
+}
